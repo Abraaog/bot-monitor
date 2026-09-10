@@ -1,1 +1,6 @@
-
+file-type@16.5.4
+mime-types
+@whiskeysockets/baileys
+qrcode-terminal
+pino
+npm init -y
